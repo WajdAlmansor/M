@@ -12,8 +12,7 @@ struct SwiftUIView: View {
     
     var body: some View {
         VStack {
-            Text("hi")
-            //Text("water tracker💦")
+            Text("water tracker💦🧊")
                 .font(.largeTitle)
                 .bold()
             
